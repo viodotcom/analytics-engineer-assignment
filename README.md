@@ -109,7 +109,7 @@ The output should be a `daily_stats` table with the following shape:
 | 2020-01-01 |     1000 |     1250 | 950     | 1125  |     750 |   825 |        250 |       500 |
 |        ... |      ... |      ... |         |       |     ... |   ... |        ... |       ... |
 
-### Task 5: Daily onversion funnel
+### Task 5: Daily conversion funnel
 
 Building up on top of the previous insight, now we want you to calculate the daily conversion funnel. For that we want to know the ratio of users that make it from one step to the next of the journey.
 
