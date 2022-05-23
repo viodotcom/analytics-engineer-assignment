@@ -2,7 +2,7 @@
 FROM ubuntu:20.04
 
 # Install all the necessary packages
-RUN apt-get update
+RUN apt-get update --fix-missing
 RUN apt-get install -y sqlite3
 RUN apt-get install -y make
 RUN apt-get install -y unzip
