@@ -1,8 +1,8 @@
-# FindHotel's Analytics Engineer assignment
+# Vio.com Analytics Engineer assignment
 
 ## Introduction
 
-This assignment is part of the recruitment process of Analytics Engineers here at FindHotel. The purpose is to asses the technical skills of our candidatess in a generic scenario, similar to the one they would experience at FindHotel.
+This assignment is part of the recruitment process of Analytics Engineers here at Vio.com. The purpose is to assess the technical skills of our candidates in a generic scenario, similar to the one they would experience at Vio.com.
 
 Please, read carefully all the instructions before starting to work on your solution and feel free to contact us if you have any doubt.
 
@@ -23,11 +23,11 @@ We have created a sample `Makefile` for reference with a target that executes th
 We will test your solution in the following way:
 - Building the docker image
 ```bash
-$ docker build -t findhotel/assignment .
+$ docker build -t viodotcom/assignment .
 ```
 - Running the docker container interactively to connect to the DB:
 ```bash
-$ docker run -it --rm findhotel/assignment
+$ docker run -it --rm viodotcom/assignment
 ```
 - Checking the tables that you have produced:
 ```bash
