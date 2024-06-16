@@ -1,4 +1,4 @@
 CREATE TABLE sample (
-    column01 INTTEGER,
+    column01 INTEGER,
     column02 TEXT
 );
